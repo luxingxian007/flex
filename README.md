@@ -1,6 +1,6 @@
-# flex--cale-
+# flex
 使用Flex布局及原生态JS制作简单功能计算器
-# 案例展示 [演示效果Demo](http://luxingxian007.github.io/flex--cale-/)
+# 案例展示 [演示效果Demo](http://luxingxian007.github.io/flex/)
 # 案例用法
 ## step1 html格式
 ~~~
